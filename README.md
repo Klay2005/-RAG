@@ -55,39 +55,19 @@ rag_project/
 
 ## 🖼️ 运行演示 (Demo)
 
-### streamlit运行演示图
-
-
-
+### streamlit 运行演示图
 
 ![streamlit](./assets/demo1.png)
-
-
-
 
 ### 1. 多领域智能路由
 > **场景**：系统识别出“库里”属于 NBA 领域，并自动切换至专用向量库。
 
-
-
-
-![NBA 检索演示](./assets/demo2.png)
-
-
-
-
+![NBA检索演示](./assets/demo2.png)
 
 ### 2. 技术知识库检索
 > **场景**：询问 Docker 与 元宇宙 相关问题，系统精准召回镜像配置与行业报告资料。
 
-
-
-
-![Docker 检索演示](./assets/demo4.png)
-
-
-
-
+![Docker检索演示](./assets/demo4.png)
 
 ![元宇宙检索演示](./assets/demo3.png)
 
